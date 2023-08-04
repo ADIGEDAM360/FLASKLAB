@@ -27,7 +27,7 @@ These are the steps to add the tble in the git hub
 
 ## Steps to add  collapsable columns 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My first collable table </summary>
 
 | Rank | Information |
 |-----:|-----------|
@@ -37,3 +37,8 @@ These are the steps to add the tble in the git hub
 
 </details>
 
+
+### TO ADD THE QUOTE IN THE GIT HUB FILE 
+---
+> this is my first quote 
+- aditya gedam 
