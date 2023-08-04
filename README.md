@@ -19,7 +19,7 @@ git remote add origin https://github.com/ADIGEDAM360/FLASKLAB.git</br>
 
 These are the steps to add the tble in the git hub 
 
-| Rank | Languages |
+| Rank |information |
 |-----:|-----------|
 |     1|aditya     |
 |     2|gedam      |
