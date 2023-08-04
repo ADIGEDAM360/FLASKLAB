@@ -24,3 +24,16 @@ These are the steps to add the tble in the git hub
 |     1|aditya     |
 |     2|gedam      |
 |     3| SQL ,python       |
+
+## Steps to add  collapsable columns 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+| Rank | Information |
+|-----:|-----------|
+|     1|aditya     |
+|     2|gedam      |
+|     3| SQL ,python       |
+
+</details>
+
